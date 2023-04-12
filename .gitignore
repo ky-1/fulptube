@@ -1,0 +1,4 @@
+# Ignore everything in /dynamic/,
+dynamic
+# EXCEPT the folder structure and .blank files.
+!dynamic/*/*/.blank

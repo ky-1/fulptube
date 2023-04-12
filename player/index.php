@@ -1,0 +1,2 @@
+<iframe src="embed.php?video=1" scrolling="no" style="width: 1280px; height: 720px;"></iframe> <br><br>
+<iframe src="flashembed.php?video=1" scrolling="no" style="width: 1280px; height: 720px;"></iframe> 

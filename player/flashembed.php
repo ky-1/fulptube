@@ -1,0 +1,1 @@
+<embed type="application/x-shockwave-flash" src="2006.swf" width="100%" height="100%" style="" id="movie_player" name="movie_player" bgcolor="#000000" quality="high" allowfullscreen="true" allowscriptaccess="always" flashvars="video_id=<?php echo $_GET['video']; ?>">
